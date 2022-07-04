@@ -46,7 +46,7 @@
 
 <ul>
   <li>
-    <b>Genetic Algorithm: </b> A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm                                  reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce                                  offspring of the next generation.
+    <b>Genetic Algorithm: </b> The genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm                                  reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce                                  offspring of the next generation.
   </li>
   <li>
     <b>Partickle Swarm Optimization: (PSO):</b> Particle swarm optimization (PSO) is one of the bio-inspired algorithms and it is a simple one to search                                                   foran optimal solution in the solution space. It is different from other optimization algorithms in such a                                                 way that only the objective function is needed and it is not dependent on the gradient or any differential                                                 form of the objective. It also has very few hyperparameters
