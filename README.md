@@ -179,7 +179,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 aidin kazempour - [linkdin](https://www.linkedin.com/in/aidin-kazempour-b647811ba/) - aydinkazempour7@gmail.com
 
-Project Link: [https://github.com/ay-ka/Algorithms](https://github.com/ay-ka/WordCloud)
+Project Link: [https://github.com/ay-ka/Evolutionary-Algorithms](https://github.com/ay-ka/Evolutionary-Algorithms)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
